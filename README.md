@@ -63,8 +63,7 @@ The low RMSE suggests that predictions are very close to actual values.
 ## 📊 Visualization
 
 The project includes an Actual vs Predicted scatter plot to visually evaluate model performance.
-
-If prediction points align closely with the diagonal line, it confirms good model accuracy.
+![Actual vs Predicted](result.png)
 
 ---
 
@@ -79,16 +78,12 @@ If prediction points align closely with the diagonal line, it confirms good mode
 3. Open:
    MultiLinear Regression.ipynb
 
----   
-
-# Student Performance Prediction model (Multi-Linear Regression)
-
 ---
 
 ## 📁 Repository Structure
 
 student-performance-multiple-linear-regression/
-│
+├── result.png 
 ├── MultiLinear Regression.ipynb  
 ├── Student_Performance.csv  
 ├── requirements.txt  
