@@ -63,7 +63,7 @@ The low RMSE suggests that predictions are very close to actual values.
 ## 📊 Visualization
 
 The project includes an Actual vs Predicted scatter plot to visually evaluate model performance.
-![Actual vs Predicted](result.png)
+![Actual vs Predicted](Result.png)
 
 ---
 
