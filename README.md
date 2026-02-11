@@ -71,14 +71,15 @@ If prediction points align closely with the diagonal line, it confirms good mode
 ## 🚀 How to Run
 
 1. Install dependencies:
-
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 2. Run Jupyter Notebook:
-
-jupyter notebook
+   jupyter notebook
 
 3. Open:
+   MultiLinear Regression.ipynb
+
+---   
 
 # Student Performance Prediction model (Multi-Linear Regression)
 
@@ -103,9 +104,3 @@ student-performance-multiple-linear-regression/
 - Visualizing model performance  
 - Building interactive prediction system  
 
----
-
-## 👤 Author
-
-Tushar  
-Engineering Student | Aspiring Data Scientist
